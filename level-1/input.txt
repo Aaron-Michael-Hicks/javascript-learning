@@ -1,0 +1,8 @@
+Alice,Engineering,95000
+Bob,Sales,72000
+Charlie,Engineering,88000
+Diana,Marketing,67000
+Evan,Sales,81000
+Frank,Engineering,102000
+Grace,Marketing,73000
+Henry,Sales,76000

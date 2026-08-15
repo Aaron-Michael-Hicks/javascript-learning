@@ -1,0 +1,32 @@
+Employee Report
+
+  ***WARNING***
+  Duplicate employee found! Review data and re-run if necessary!
+  --------------------------------------------------------------
+  John - Engineering - 85000
+
+  Highest Paid Employee
+  ---------------------
+  Sarah - Engineering - 92000
+  
+
+  Employees by Department
+  ---------------------
+  Engineering
+  - John: 85000
+  - Sarah: 92000
+  - John: 85000
+
+  QA
+  - Mike: 78000
+  - Lisa: 82000
+
+  Sales
+  - Tom: 70000
+
+
+  Department Salary Average
+  -------------------------
+  Engineering: 87333.33
+  QA: 80000.00
+  Sales: 70000.00

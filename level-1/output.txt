@@ -1,0 +1,12 @@
+
+  Employee Report
+  ==========================
+
+  Total Employees: 8
+  Average Salary: 81750
+
+  Highest Paid:
+  Frank - 102000
+
+  Lowest Paid:
+  Diana - 67000
